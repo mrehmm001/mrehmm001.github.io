@@ -59,6 +59,11 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
+.posts article img{    
+    height: 15vw;
+    object-fit: cover
+    
+}
 
 input::-moz-focus-inner {
 	border: 0;
